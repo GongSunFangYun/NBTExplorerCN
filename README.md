@@ -26,13 +26,13 @@ NBTExplorerCN 支持读写下列格式的文件：
 
 ## 系统需求（当前仅支持Windows）
 
-|Hardware: Windows XP or later
+|| Hardware: Windows XP or later
 
-|硬件：Windows XP及以上
+|| 硬件：Windows XP及以上
 
-|Software: .NET Framework 2.0 or later
+|| Software: .NET Framework 2.0 or later
 
-|软件：.NET Framework 2.0及以上
+|| 软件：.NET Framework 2.0及以上
 
 ---
 

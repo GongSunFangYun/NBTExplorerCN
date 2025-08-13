@@ -38,6 +38,8 @@ NBTExplorerCN 支持读写下列格式的文件：
 
 ## Other
 
+## 其他
+
 The website password is **NBTE**
 
 云盘密码是 **NBTE**

@@ -34,8 +34,6 @@ NBTExplorerCN 支持读写下列格式的文件：
 
 || 软件：.NET Framework 2.0及以上
 
----
-
 ## Other
 
 ## 其他

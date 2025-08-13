@@ -40,6 +40,10 @@ NBTExplorerCN 支持读写下列格式的文件：
 
 ## 其他
 
+If you are in mainland China, you can use [this address](wwrk.lanzoub.com/b01392210f) to download NBTExplorerCN.
+
+如果你正处于中国大陆，你可以使用[该链接](wwrk.lanzoub.com/b01392210f)下载NBTExplorerCN
+
 The website password is **NBTE**
 
 云盘密码是 **NBTE**

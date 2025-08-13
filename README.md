@@ -21,3 +21,5 @@ NBTExplorer supports reading and writing the following formats:
 ### Windows
 
 Windows XP or later, .NET Framework 2.0 or later.
+
+**Forked from [NBTExplorer](https://github.com/jaquadro/NBTExplorer)**

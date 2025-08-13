@@ -6,7 +6,7 @@ NBTExplorerCN 是一个基于NBT Editor的开源NBT数据编辑器，它主要�
 
 *Supported Chinese(Simplefield)
 
-*因其为[NBTExplorer](https://github.com/jaquadro/NBTExplorer)的中文分支，所以对中文进行了完全支持。
+*因其为[NBTExplorer](https://github.com/jaquadro/NBTExplorer)的简体中文分支，所以对简体中文进行了完全支持。
 
 ## Supported Formats
 

@@ -44,7 +44,7 @@ NBTExplorerCN 支持讀寫下列格式的文件：
 
 ## 其他
 
-If you are in mainland China, you can use [this address](wwrk.lanzoub.com/b01392210f) to download NBTExplorerCN.
+If you are in mainland China, you can use [this link](wwrk.lanzoub.com/b01392210f) to download NBTExplorerCN.
 
 如果你正處於中國大陸，你可以使用[該鏈接](wwrk.lanzoub.com/b01392210f)下載NBTExplorerCN
 

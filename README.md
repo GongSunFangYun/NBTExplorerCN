@@ -27,7 +27,7 @@ NBTExplorerCN 支持讀寫下列格式的文件：
 * Uncompressed NBT files | 未經壓縮的NBT文件（如 file.dat）
 * Minecraft region files | Region 格式的存檔區塊文件 (如 *.mcr)
 * Minecraft anvil files  | Anvil 格式的存檔區塊文件（如*.mca）
-* 
+
 ## System Requirements  
 
 ## 系統需求（當前僅支持Windows）

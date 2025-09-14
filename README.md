@@ -7,9 +7,9 @@
 [![Issues](https://img.shields.io/github/issues/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
 ![简体中文支持](https://img.shields.io/badge/简体中文-支持-ff8c00?style=flat-square&labelColor=ff8c00&color=ffd700)
 
-NBTExplorerCN is the simplified Chinese branch of NBTExplorer and is actively maintained. It is mainly used to handle game data for [Minecraft](http://www.minecraft.net).
- 
 NBTExplorerCN is the Simplified Chinese branch version of [NBTExplorer](https://github.com/jaquadro/NBTExplorer), which is currently being maintained. This version retains all the functions of the original while providing complete localization, and will be updated to include the latest features of the original version, mainly used for handling game data of [Minecraft](minecraft.net).
+
+NBTExplorerCN 是 [NBTExplorer](https://github.com/jaquadro/NBTExplorer) 的簡體中文分支版本，目前持續維護中。該版本在保留原版所有功能的基礎上提供完整漢化，並會同步更新原版的最新功能，主要用於處理《Minecraft》遊戲數據。
 
 ## Supported Formats
 

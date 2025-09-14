@@ -7,9 +7,9 @@
 [![Issues](https://img.shields.io/github/issues/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
 ![简体中文支持](https://img.shields.io/badge/简体中文-支持-ff8c00?style=flat-square&labelColor=ff8c00&color=ffd700)
 
-NBTExplorerCN is an open-source NBT editor for all common sources of NBT data.  It's mainly intended for editing [Minecraft](http://www.minecraft.net) game data.
+NBTExplorerCN is the simplified Chinese branch of NBTExplorer and is actively maintained. It is mainly used to handle game data for [Minecraft](http://www.minecraft.net).
  
-NBTExplorerCN 是一個基於NBT Editor的開源NBT數據編輯器，它主要用於處理[Minecraft](http://www.minecraft.net)的遊戲數據。
+NBTExplorerCN 是 NBTExplorer 的簡中分支，並保持維護狀態。它主要用於處理[Minecraft](http://www.minecraft.net)的遊戲數據。
 
 *Supported Chinese(Simplefield)
 

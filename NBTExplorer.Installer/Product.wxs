@@ -27,7 +27,7 @@
     <WixVariable Id="WixUIDialogBmp" Value="Bitmaps/Dialog.png" />
 
     <Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOXTEXT" Value="Launch NBTExplorer" />
-    <Property Id="WixShellExecTarget" Value="[#NBTExplorer.exe]" />
+    <Property Id="WixShellExecTarget" Value="[#NBTExplorerCN.exe]" />
     <CustomAction Id="CA.LaunchApplication" BinaryKey="WixCA" DllEntry="WixShellExec" Impersonate="yes" />
 
     
@@ -55,7 +55,7 @@
       <Component Id="C.NBTEShortcut" Guid="*">
         <Shortcut Id="S.NBTEShortcut"
                   Name="NBTExplorer"
-                  Target="[INSTALLDIR]NBTExplorer.exe"
+                  Target="[INSTALLDIR]NBTExplorerCN.exe"
                   WorkingDirectory="INSTALLDIR" />
         <RemoveFolder Id="RF.StartFolder" On="uninstall" />
         <RegistryValue Id="RV.NBTEShortcut" Root="HKCU" Key="Software\NBTExplorer" Name="installed" Type="integer" Value="1" KeyPath="yes" />
@@ -65,21 +65,21 @@
                   Name="Uninstall NBTExplorer"
                   Target="[SystemFolder]msiexec.exe"
                   Arguments="/x [ProductCode]"
-                  Description="Uninstalls the NBTExplorer Application" />
+                  Description="Uninstalls the NBTExplorerCN Application" />
         <RemoveFolder Id="RF.Uninstall" On ="uninstall" />
         <RegistryValue Id="RV.Uninstall" Root="HKCU" Key="Software\NBTExplorer" Name="uninstall" Type="integer" Value="1" KeyPath="yes" />
       </Component>
     </ComponentGroup>
 
     <ComponentGroup Id="CG.ProductComponents" Directory="INSTALLDIR">
-      <Component Id="C.NBTExplorer.exe" Guid="*">
-        <File Source="../Staging/NBTExplorer.exe" KeyPath="yes" />
+      <Component Id="C.NBTExplorerCN.exe" Guid="*">
+        <File Source="../Staging/NBTExplorerCN.exe" KeyPath="yes" />
       </Component>
-      <Component Id="C.NBTExplorer.exe.config" Guid="*">
-        <File Source="../Staging/NBTExplorer.exe.config" KeyPath="yes" />
+      <Component Id="C.NBTExplorerCN.exe.config" Guid="*">
+        <File Source="../Staging/NBTExplorerCN.exe.config" KeyPath="yes" />
       </Component>
-      <Component Id="C.NBTExplorer.visualelementsmanifest.xml" Guid="*">
-        <File Source="../Staging/Windows/NBTExplorer.visualelementsmanifest.xml" KeyPath="yes" />
+      <Component Id="C.NBTExplorerCN.visualelementsmanifest.xml" Guid="*">
+        <File Source="../Staging/Windows/NBTExplorerCN.visualelementsmanifest.xml" KeyPath="yes" />
       </Component>
       <Component Id="C.NBTUtil.exe" Guid="*">
         <File Source="../Staging/NBTUtil.exe" KeyPath="yes" />

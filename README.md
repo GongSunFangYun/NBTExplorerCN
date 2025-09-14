@@ -1,60 +1,33 @@
-# NBTExplorerCN
+# NBTExplorer
 
-[![GitHub release](https://img.shields.io/github/v/release/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
-[![Downloads](https://img.shields.io/github/downloads/GongSunFangYun/NBTExplorerCN/total?style=flat-square)]()
-[![Stars](https://img.shields.io/github/stars/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
-[![Forks](https://img.shields.io/github/forks/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
-[![Issues](https://img.shields.io/github/issues/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
-![简体中文支持](https://img.shields.io/badge/简体中文-支持-ff8c00?style=flat-square&labelColor=ff8c00&color=ffd700)
-
-NBTExplorerCN is the Simplified Chinese branch version of [NBTExplorer](https://github.com/jaquadro/NBTExplorer), which is currently being maintained. This version retains all the functions of the original while providing complete localization, and will be updated to include the latest features of the original version, mainly used for handling game data of [Minecraft](minecraft.net).
-
-NBTExplorerCN 是 [NBTExplorer](https://github.com/jaquadro/NBTExplorer) 的簡體中文分支版本，目前持續維護中。該版本在保留原版所有功能的基礎上提供完整漢化，並會同步更新原版的最新功能，主要用於處理《Minecraft》遊戲數據。
+NBTExplorer is an open-source NBT editor for all common sources of NBT data.  It's mainly intended for editing [Minecraft](http://www.minecraft.net) game data.
 
 ## Supported Formats
 
-## 支持的文件格式
+NBTExplorer supports reading and writing the following formats:
 
-NBTExplorerCN supports reading and writing the following formats:
+* Standard NBT files (e.g. level.dat)
+* Schematic files
+* Uncompressed NBT files (e.g. idcounts.dat)
+* Minecraft region files (*.mcr)
+* Minecraft anvil files (*.mca)
+* Cubic Chunks region files (r2*.mcr, r2*.mca)
 
-NBTExplorerCN 支持讀寫下列格式的文件：
+## System Requirements
 
-* Standard NBT files | 標準NBT文件（如 level.dat）
-* Schematic files | Schematic 文件（如 *.schematic）
-* Uncompressed NBT files | 未經壓縮的NBT文件（如 file.dat）
-* Minecraft region files | Region 格式的存檔區塊文件 (如 *.mcr)
-* Minecraft anvil files  | Anvil 格式的存檔區塊文件（如*.mca）
+### Windows
 
-## System Requirements  
+Windows XP or later, .NET Framework 2.0 or later.
 
-## 系統需求（當前僅支持Windows）
+### Linux
 
-|| Hardware: Windows XP or later
+NBTExplorer is compatible with recent Mono runtimes, at least 2.6 or later.
+Minimally, your system needs the `mono-core` and `mono-winforms` packages, or whatever package set is equivalent.
 
-|| 硬件：Windows XP及以上
+### Mac
 
-|| Software: .NET Framework 2.0 or later
+A separate Mac version with a native UI is available.  All Mono dependencies are included within the app package.
+Minimum supported OS is OSX 10.8 Mountain Lion, but it may run on versions as early as Snow Leopard.
 
-|| 軟件：.NET Framework 2.0及以上
-
-## Other
-
-## 其他
-
-If you are in mainland China, you can use [this link](https://wwrk.lanzoub.com/b01392210f) to download NBTExplorerCN.
-
-如果你正處於中國大陸，你可以使用[該鏈接](https://wwrk.lanzoub.com/b01392210f)下載NBTExplorerCN
-
-The website password is **NBTE**
-
-雲盤密碼是 **NBTE**
-
-## Star History
-
-<a href="https://www.star-history.com/#GongSunFangYun/NBTExplorerCN&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/NBTExplorerCN&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/NBTExplorerCN&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GongSunFangYun/NBTExplorerCN&type=Date" />
- </picture>
-</a>
+The Windows version of NBTExplorer can still be used if the Mac version does not work.  You will need to install the
+Mono runtime, and then run NBTExplorer with Mono from the command line.

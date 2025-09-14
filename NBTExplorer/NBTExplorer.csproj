@@ -8,9 +8,9 @@
     <ProjectGuid>{8A458245-8176-4599-95CD-3CA39F2435CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NBTExplorer</RootNamespace>
-    <AssemblyName>NBTExplorer</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <RootNamespace>NBTExplorerCN</RootNamespace>
+    <AssemblyName>NBTExplorerCN</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>

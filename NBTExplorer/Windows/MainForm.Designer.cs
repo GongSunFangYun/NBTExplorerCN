@@ -485,7 +485,7 @@
             this._buttonRefresh.ImageTransparentColor = System.Drawing.Color.Magenta;
             this._buttonRefresh.Name = "_buttonRefresh";
             this._buttonRefresh.Size = new System.Drawing.Size(23, 22);
-            this._buttonRefresh.Text = "从磁盘刷新内容";
+            this._buttonRefresh.Text = "从磁盘全部重新加载";
             this._buttonRefresh.Click += new System.EventHandler(this._buttonRefresh_Click);
             // 
             // toolStripSeparator1

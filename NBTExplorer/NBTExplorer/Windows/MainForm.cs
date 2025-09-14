@@ -232,6 +232,7 @@ namespace NBTExplorer.Windows
                                   "1.检查该NBT文件是否损坏。\n" +
                                   "2.确定该NBT文件使用常规压缩格式。\n" +
                                   "3.你可能打开了不属于Minecraft的NBT文件。");
+
             }
         }
 
@@ -933,7 +934,7 @@ namespace NBTExplorer.Windows
 
                 if (_nodeTree.SelectedNode == null)
                 {
-                    MessageBox.Show("请先打开一个文件/文件夹并选取目标NBT文件的根标签！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("请先打开一个文件/文件夹！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     return;
                 }
 

@@ -9,7 +9,7 @@
 
 NBTExplorerCN is the simplified Chinese branch of NBTExplorer and is actively maintained. It is mainly used to handle game data for [Minecraft](http://www.minecraft.net).
  
-NBTExplorerCN 是 [NBTExplorer](https://github.com/jaquadro/NBTExplorer) 的簡中分支，並保持維護狀態。它主要用於處理[Minecraft](http://www.minecraft.net)的遊戲數據。
+NBTExplorerCN is the Simplified Chinese branch version of [NBTExplorer](https://github.com/jaquadro/NBTExplorer), which is currently being maintained. This version retains all the functions of the original while providing complete localization, and will be updated to include the latest features of the original version, mainly used for handling game data of [Minecraft](minecraft.net).
 
 ## Supported Formats
 

@@ -51,3 +51,13 @@ If you are in mainland China, you can use [this link](wwrk.lanzoub.com/b01392210
 The website password is **NBTE**
 
 雲盤密碼是 **NBTE**
+
+## Star History
+
+<a href="https://www.star-history.com/#GongSunFangYun/NBTExplorerCN&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/NBTExplorerCN&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/NBTExplorerCN&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GongSunFangYun/NBTExplorerCN&type=Date" />
+ </picture>
+</a>

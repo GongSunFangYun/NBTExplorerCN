@@ -5,6 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
 [![Forks](https://img.shields.io/github/forks/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
 [![Issues](https://img.shields.io/github/issues/GongSunFangYun/NBTExplorerCN?style=flat-square)]()
+![简体中文支持](https://img.shields.io/badge/简体中文-支持-ff8c00?style=flat-square&labelColor=ff8c00&color=ffd700)
 
 NBTExplorerCN is an open-source NBT editor for all common sources of NBT data.  It's mainly intended for editing [Minecraft](http://www.minecraft.net) game data.
  

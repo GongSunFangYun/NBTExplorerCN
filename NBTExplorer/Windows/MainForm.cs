@@ -9,6 +9,7 @@ using NBTExplorer.Model;
 using NBTExplorer.Properties;
 using Substrate.Nbt;
 using NBTExplorer.Controllers;
+using System.Drawing;
 
 namespace NBTExplorer.Windows
 {
@@ -67,6 +68,7 @@ namespace NBTExplorer.Windows
             _nodeTree.NodeMouseClick += _nodeTree_NodeMouseClick;
             _nodeTree.DragEnter += _nodeTree_DragEnter;
             _nodeTree.DragDrop += _nodeTree_DragDrop;
+            _nodeTree.Font = new Font("Microsoft YaHei UI", 9F, FontStyle.Regular);
 
             _buttonOpen.Click += _buttonOpen_Click;
             _buttonOpenFolder.Click += _buttonOpenFolder_Click;

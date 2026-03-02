@@ -1,0 +1,8 @@
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\bin\Release\NBTModel.dll
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\bin\Release\NBTModel.pdb
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\bin\Release\Substrate.dll
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\obj\Release\NBTModel.csproj.AssemblyReference.cache
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\obj\Release\NBTModel.csproj.CoreCompileInputs.cache
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\obj\Release\NBTModel.csproj.Up2Date
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\obj\Release\NBTModel.dll
+D:\JetbrainsProject\CSharpPorjects\NBTExplorer-master\NBTExplorerCN\NBTModel\obj\Release\NBTModel.pdb

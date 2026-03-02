@@ -1,0 +1,47 @@
+name: "Feature Request"
+description: "提議一個新功能或改進某個已存在的模塊"
+title: "[FR] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **請描述你的需求，我們會盡快評估！"
+  - type: textarea
+    id: description
+    attributes:
+      label: "功能描述"
+      description: "你希望新增或改進什麼功能？"
+      placeholder: "例如：希望增加伺服器配置文件自動修改功能。"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "需求原因"
+      description: "為什麼需要添加這個功能？它解決了什麼問題？"
+      placeholder: "例如：目前手動修改配置文件效率低下且容易出錯..."
+    validations:
+      required: true
+  - type: textarea
+    id: implementation_ideas
+    attributes:
+      label: "實現建議"
+      description: "如果你有具體的實現想法，可以在這裡分享"
+      placeholder: "例如：我認為可以通過解析配置文件格式，提供可視化編輯界面..."
+  - type: input
+    id: system_version
+    attributes:
+      label: "系統版本"
+      description: "請輸入你的操作系統版本"
+      placeholder: "例如：Windows 11 24H2"
+    validations:
+      required: true
+  - type: checkboxes
+    id: options
+    attributes:
+      label: "附加信息"
+      description: "請選擇符合你情況的選項"
+      options:
+        - label: "我使用的是最新版本的 BeaconEX"
+        - label: "我有興趣參與 BeaconEX 的開發（需要經過考核）"
